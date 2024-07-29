@@ -1,0 +1,1 @@
+Script lectura api github.
