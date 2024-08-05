@@ -1,3 +1,5 @@
+#### Sistemas Operativos 1 - Manuel Ricardo Chávez Ambrosio - 199616754.
+
 # Actividad 3
 
 > Operaciones con usuarios, grupos y permisos en Linux.
