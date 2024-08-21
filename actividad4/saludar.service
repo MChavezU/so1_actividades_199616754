@@ -1,0 +1,12 @@
+# path: /etc/systemd/system/saludo_infinito.service
+
+[Unit]
+Description=Servicio que imprime un saludo y la fecha actual infinitamente
+
+[Service]
+ExecStart=/usr/local/bin/saludo_infinito.sh
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
