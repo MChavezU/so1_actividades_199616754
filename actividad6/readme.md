@@ -44,7 +44,7 @@ Mostrar procesos zombi con el comando siguiente en bash:
 
     ps aux | grep Z
 
-![Proceso en ejecución](/proczombi.png)
+![Proceso en ejecución](proczombi.png)
 
     Implementación en p2.c
 
